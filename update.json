@@ -1,0 +1,13 @@
+﻿{
+  "version": "1.2.1.2",
+  "versionCode": 12102,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.2/Knotup-v1.2.1.2.apk",
+  "mandatory": false,
+  "title": "Knotup 1.2.1.2",
+  "description": [
+    "Fixed Notes Archive not showing archived notes",
+    "Fixed App Lock fingerprint authentication",
+    "Improved dark theme across the app",
+    "Various bug fixes and performance improvements"
+  ]
+}
