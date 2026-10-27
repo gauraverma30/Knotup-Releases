@@ -1,13 +1,12 @@
-﻿{
-  "version": "1.2.1.2",
-  "versionCode": 12102,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.2/Knotup-v1.2.1.2.apk",
+{
+  "version": "1.2.1.3",
+  "versionCode": 12103,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.3/Knotup-v1.2.1.3.apk",
   "mandatory": false,
-  "title": "Knotup 1.2.1.2",
+  "title": "Knotup 1.2.1.3",
   "description": [
-    "Fixed Notes Archive not showing archived notes",
-    "Fixed App Lock fingerprint authentication",
-    "Improved dark theme across the app",
-    "Various bug fixes and performance improvements"
+    "Category is optional when adding or editing income and expense transactions",
+    "Fixed bank accounts not appearing in the Received Via and Paid Via options",
+    "Added separate debit, credit, and running balance ledgers for cash, coins, and each bank account"
   ]
 }
