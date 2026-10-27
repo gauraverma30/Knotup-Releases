@@ -1,14 +1,13 @@
 {
-  "version": "1.2.1.4",
-  "versionCode": 12104,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.4/Knotup-v1.2.1.4.apk",
+  "version": "1.2.1.5",
+  "versionCode": 12105,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.5/Knotup-v1.2.1.5.apk",
   "mandatory": false,
-  "title": "Knotup 1.2.1.4",
+  "title": "Knotup 1.2.1.5",
   "description": [
-    "Fixed fingerprint authentication setup on Android",
-    "Improved scoped storage handling for app files",
-    "Category is optional when adding or editing income and expense transactions",
-    "Fixed bank accounts not appearing in the Received Via and Paid Via options",
-    "Added separate debit, credit, and running balance ledgers for cash, coins, and each bank account"
+    "Added a branded splash screen with live startup progress",
+    "Separated fingerprint/face and PIN/pattern lock screens",
+    "Made note links clickable and added automatic numbering",
+    "Added update alerts and optional randomly timed daily inspiration notifications"
   ]
 }
