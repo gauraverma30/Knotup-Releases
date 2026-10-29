@@ -1,13 +1,14 @@
 {
-  "version": "1.2.1.7",
-  "versionCode": 12107,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.7/Knotup-v1.2.1.7.apk",
+  "version": "1.2.3",
+  "versionCode": 12108,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.3/Knotup-v1.2.3.apk",
   "mandatory": false,
-  "title": "Knotup 1.2.1.7",
+  "title": "Knotup 1.2.3",
   "description": [
-    "Added a refreshed app look with an option to switch back to classic styling",
-    "Improved the dark theme, blue gradients, and icon styling",
-    "Redesigned Private Space with category filters and item previews",
-    "Simplified Notes, Journal, and To-Do menus and improved profile editing"
+    "Refreshed feature icons across the dashboard, navigation, settings, and finance",
+    "Organized Private Space into private notes, photos, videos, audio, and document libraries",
+    "Added feedback and problem reports with optional photo, video, and file attachments",
+    "Added a support email draft with KnotUp's contact address prefilled",
+    "Restored the Thought banner artwork with a softer blue overlay"
   ]
 }
