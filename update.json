@@ -1,14 +1,15 @@
 {
-  "version": "1.2.3",
-  "versionCode": 12108,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.3/Knotup-v1.2.3.apk",
+  "version": "1.2.4",
+  "versionCode": 12109,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.4/Knotup-v1.2.4.apk",
   "mandatory": false,
-  "title": "Knotup 1.2.3",
+  "title": "KnotUp 1.2.4",
   "description": [
-    "Refreshed feature icons across the dashboard, navigation, settings, and finance",
-    "Organized Private Space into private notes, photos, videos, audio, and document libraries",
-    "Added feedback and problem reports with optional photo, video, and file attachments",
-    "Added a support email draft with KnotUp's contact address prefilled",
-    "Restored the Thought banner artwork with a softer blue overlay"
+    "Dictate notes with editable voice-to-text.",
+    "Break tasks into subtasks and track completion.",
+    "Scan receipts into transaction drafts and review OCR suggestions before saving.",
+    "Search notes, tasks, journal entries, and finance transactions from one place.",
+    "Use automatic local backups and see more actions in recent activity.",
+    "Move journal entries and related media into Private Space."
   ]
 }
