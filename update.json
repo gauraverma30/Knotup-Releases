@@ -1,13 +1,13 @@
 {
-  "version": "1.2.1.5",
-  "versionCode": 12105,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.5/Knotup-v1.2.1.5.apk",
+  "version": "1.2.1.6",
+  "versionCode": 12106,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.1.6/Knotup-v1.2.1.6.apk",
   "mandatory": false,
-  "title": "Knotup 1.2.1.5",
+  "title": "Knotup 1.2.1.6",
   "description": [
-    "Added a branded splash screen with live startup progress",
-    "Separated fingerprint/face and PIN/pattern lock screens",
-    "Made note links clickable and added automatic numbering",
-    "Added update alerts and optional randomly timed daily inspiration notifications"
+    "Added an expandable What's New update log and Refer & Invite sharing in Settings",
+    "Refined KnotUp branding and logo fit across startup, navigation, and About screens",
+    "Added useful Notes, Journal, and To-Do settings shortcuts with saved preferences",
+    "Redesigned the update screen with clearer release details"
   ]
 }
