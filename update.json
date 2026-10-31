@@ -1,15 +1,14 @@
 {
-  "version": "1.2.5",
-  "versionCode": 12110,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.5/Knotup-v1.2.5.apk",
+  "version": "1.2.6",
+  "versionCode": 12111,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.6/Knotup-v1.2.6.apk",
   "mandatory": false,
-  "title": "KnotUp 1.2.5",
+  "title": "KnotUp 1.2.6",
   "description": [
-    "Import supported backup data and export information across KnotUp.",
-    "Improve task-save reliability and parse Hindi and Hinglish voice task details.",
-    "Import slide text from PowerPoint files and embed fonts in PDF exports.",
-    "Add Finance workflows for transfers, recurring transactions, bills, loans and finance documents.",
-    "Improve local media cleanup and task lifecycle handling.",
-    "Add further voice capture and cross-section search improvements."
+    "Improve light-mode feature icon contrast with bright tinted backgrounds and clear glyphs.",
+    "Show live word and character counts under the Notes editor while typing or dictating.",
+    "Refresh Notes, To-Do and Journal destination icons with the current feature icon style.",
+    "Replace platform emoji mood faces with expressive vector artwork in Journal mood selection, cards, calendar and history.",
+    "Simplify the Finance drawer and group secondary tools in expandable sections."
   ]
 }
