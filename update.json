@@ -1,15 +1,15 @@
 {
-  "version": "1.2.4",
-  "versionCode": 12109,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.4/Knotup-v1.2.4.apk",
+  "version": "1.2.5",
+  "versionCode": 12110,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.5/Knotup-v1.2.5.apk",
   "mandatory": false,
-  "title": "KnotUp 1.2.4",
+  "title": "KnotUp 1.2.5",
   "description": [
-    "Dictate notes with editable voice-to-text.",
-    "Break tasks into subtasks and track completion.",
-    "Scan receipts into transaction drafts and review OCR suggestions before saving.",
-    "Search notes, tasks, journal entries, and finance transactions from one place.",
-    "Use automatic local backups and see more actions in recent activity.",
-    "Move journal entries and related media into Private Space."
+    "Import supported backup data and export information across KnotUp.",
+    "Improve task-save reliability and parse Hindi and Hinglish voice task details.",
+    "Import slide text from PowerPoint files and embed fonts in PDF exports.",
+    "Add Finance workflows for transfers, recurring transactions, bills, loans and finance documents.",
+    "Improve local media cleanup and task lifecycle handling.",
+    "Add further voice capture and cross-section search improvements."
   ]
 }
