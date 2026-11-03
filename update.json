@@ -1,14 +1,15 @@
 {
-  "version": "1.2.6",
-  "versionCode": 12111,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.6/Knotup-v1.2.6.apk",
+  "version": "1.2.8",
+  "versionCode": 12113,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.8/Knotup-v1.2.8.apk",
   "mandatory": false,
-  "title": "KnotUp 1.2.6",
+  "title": "KnotUp 1.2.8",
   "description": [
-    "Improve light-mode feature icon contrast with bright tinted backgrounds and clear glyphs.",
-    "Show live word and character counts under the Notes editor while typing or dictating.",
-    "Refresh Notes, To-Do and Journal destination icons with the current feature icon style.",
-    "Replace platform emoji mood faces with expressive vector artwork in Journal mood selection, cards, calendar and history.",
-    "Simplify the Finance drawer and group secondary tools in expandable sections."
+    "Restore KnotUp's glossy 3D feature icons, including the To-Do Trash icon, and refresh Journal mood icon visuals.",
+    "Add Finance receipt and screenshot OCR using on-device text recognition for images and PDFs.",
+    "Prefill the existing Income/Expense transaction form with detected details for user review; preserve original receipt files and support multiple attachments.",
+    "Match detected bank and masked account details to registered accounts when unambiguous, and prevent duplicates based on transaction identifiers.",
+    "Failed and pending receipts are not saved as completed transactions.",
+    "Receipt interpretation currently uses on-device OCR and conservative parsing. A secure AI document-understanding backend is not configured in this release."
   ]
 }
