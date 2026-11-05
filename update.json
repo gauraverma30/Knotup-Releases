@@ -1,15 +1,13 @@
 {
-  "version": "1.2.8",
-  "versionCode": 12113,
-  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.8/Knotup-v1.2.8.apk",
+  "version": "1.2.9",
+  "versionCode": 12114,
+  "downloadUrl": "https://github.com/gauraverma30/Knotup-Releases/releases/download/v1.2.9/Knotup-v1.2.9.apk",
   "mandatory": false,
-  "title": "KnotUp 1.2.8",
+  "title": "KnotUp 1.2.9",
   "description": [
-    "Restore KnotUp's glossy 3D feature icons, including the To-Do Trash icon, and refresh Journal mood icon visuals.",
-    "Add Finance receipt and screenshot OCR using on-device text recognition for images and PDFs.",
-    "Prefill the existing Income/Expense transaction form with detected details for user review; preserve original receipt files and support multiple attachments.",
-    "Match detected bank and masked account details to registered accounts when unambiguous, and prevent duplicates based on transaction identifiers.",
-    "Failed and pending receipts are not saved as completed transactions.",
-    "Receipt interpretation currently uses on-device OCR and conservative parsing. A secure AI document-understanding backend is not configured in this release."
+    "Refresh the Notes and Journal Record Audio sheet with supplied KnotUp waveform artwork and a responsive blue glass design.",
+    "Use the same recorder in Notes quick capture, the Notes editor, and the Journal editor.",
+    "Show a live microphone amplitude waveform with timer, pause and resume controls, delete confirmation, and stop-to-attach behavior.",
+    "Add High Quality and Noise Reduction settings using the existing recorder configuration."
   ]
 }
